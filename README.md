@@ -5,4 +5,5 @@
  This application is built using React-native and Redux JavaScript frameworks using the concept of store,providers,actions and reducers..
  
 # Installation
- The android apk can be found in the directory 'counter/android/app/build/outputs'.
+ The android apk can be found here:
+https://drive.google.com/file/d/0B5DISUcf-ougOGtHYndnNjRhbmZKNV9fRXpBMm9FSXB6RDRJ/view?usp=sharing
